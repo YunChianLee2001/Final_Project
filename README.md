@@ -1,1 +1,1 @@
-# Final Project for NUMERICAL METHOD Course.
+# Final Project for Numerical Method Course.
